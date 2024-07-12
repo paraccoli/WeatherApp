@@ -42,7 +42,7 @@ cd weather-app
 pip install -r backend/requirements.txt
 ```
 3. [OpenWeatherMap](https://home.openweathermap.org/)からAPIキーを取得します。
-- APIキーを追加します: `WEATHER_API_KEY=your_api_key_here`
+- `.env`ファイルにAPIキーを追加します: `WEATHER_API_KEY=your_api_key_here`
 
 ### 起動方法
 
