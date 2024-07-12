@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Forecast</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 id="main-title">Weather Forecast</h1>
+            <div class="header-controls">
+                <select id="language-selector">
+                    <option value="en">English</option>
+                    <option value="ja">日本語</option>
+                    <option value="zh">中文</option>
+                    <option value="es">Español</option>
+                </select>
+                <div class="unit-toggle">
+                    <label>
+                        <input type="radio" name="unit" value="celsius" checked> °C
+                    </label>
+                    <label>
+                        <input type="radio" name="unit" value="fahrenheit"> °F
+                    </label>
+                </div>
+            </div>
+        </header>
+        
+        <div class="search-container">
+            <input type="text" id="city-search" placeholder="Search for a city">
+            <button id="search-button">Search</button>
+        </div>
+
+        <h2 id="japan-title">Weather in major Japanese cities</h2>
+        <div id="japan-weather" class="weather-grid"></div>
+
+        <h2 id="local-title">Local Weather</h2>
+        <div id="local-weather" class="weather-card"></div>
+
+        <h2 id="search-title">Search Results</h2>
+        <div id="search-results" class="weather-card"></div>
+
+        <h2 id="forecast-title">5-Day Forecast</h2>
+        <div id="forecast" class="forecast-container"></div>
+
+        <h2 id="favorites-title">Favorites</h2>
+        <div id="favorites">
+            <ul id="favorites-list"></ul>
+        </div>
+    </div>
+    <script src="translations.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
