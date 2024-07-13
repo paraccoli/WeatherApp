@@ -54,6 +54,10 @@ python main.py
 
 <img src="https://emojix.s3.ap-northeast-1.amazonaws.com/g3/svg/26a0.svg" width="20" hight="20"> **exeファイルは.envファイルと同じ階層ディレクトリに配置してください。** <img src="https://emojix.s3.ap-northeast-1.amazonaws.com/g3/svg/26a0.svg" width="20" hight="20">
 
+<img src="backend/Screenshot_2.png">
+
+<img src="backend/Screenshot_1.png">
+
 ## English
 
 Thank you for your interest in this application. This Weather Forecast Application displays weather forecasts for major Japanese cities and allows users to search for weather information in cities worldwide.
