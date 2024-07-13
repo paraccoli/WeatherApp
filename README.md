@@ -109,7 +109,7 @@ python main.py
 ```
 2. if you want to use the exe file version, download `weather-app.exe` from the `Release` page and launch it.
 
-<img src="https://emojix.s3.ap-northeast-1.amazonaws.com/g3/svg/26a0.svg" width="20" hight="20"> **Please place the exe file in the same hierarchical directory as the .env file. Please place the exe file in the same hierarchical directory as the .env file. ** <img src="https://emojix.s3.ap-northeast-1.amazonaws.com/g3/svg/26a0.svg" width="20" hight="20">
+<img src="https://emojix.s3.ap-northeast-1.amazonaws.com/g3/svg/26a0.svg" width="20" hight="20"> **Please place the exe file in the same hierarchical directory as the .env file. Please place the exe file in the same hierarchical directory as the .env file.** <img src="https://emojix.s3.ap-northeast-1.amazonaws.com/g3/svg/26a0.svg" width="20" hight="20">
 
 ## **作成者 Developer**
 
