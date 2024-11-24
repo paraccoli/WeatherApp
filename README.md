@@ -34,7 +34,7 @@ weather_app/
 
 1. このリポジトリをクローンします。
 ```
-git clone https://github.com/xM1guel/weather-app.git
+git clone https://github.com/paraccoli/weather-app.git
 cd weather-app
 ```
 2. 必要なパッケージをインストールします。
@@ -91,7 +91,7 @@ weather_app/
 
 1. Clone this repository
 ```
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/paraccoli/weather-app.git
 cd weather-app
 ```
 2. Install the required packages
@@ -113,6 +113,6 @@ python main.py
 
 ## **作成者 Developer**
 
-- 作成者: xM1guel
-- GitHub: https://github.com/xM1guel
+- 作成者: パラッコリー(ID：Paraccoli)
+- GitHub: https://github.com/paraccoli
 - Zenn: https://zenn.dev/miguel
